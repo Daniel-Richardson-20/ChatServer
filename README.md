@@ -2,7 +2,7 @@
 
 1. Clone this app using below syntax -:
 
-   > git clone https://github.com/DevStack06/Chat-Server.git
+   > git clone https://github.com/Daniel-Richardson-2001/ChatServer.git
 
 2. After cloning install packages using below syntax -:
    > npm install
